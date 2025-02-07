@@ -53,3 +53,5 @@ chmod +x limbo.sh
 2.) then type "op username" without "" and change the username to yours
 
 > Please credit [IsmaelTech](https://www.youtube.com/@ismaeltechI?sub_confirmation=1)
+
+#### rs.firenetwork.lol
