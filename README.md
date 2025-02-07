@@ -54,4 +54,4 @@ chmod +x limbo.sh
 
 > Please credit [IsmaelTech](https://www.youtube.com/@ismaeltechI?sub_confirmation=1)
 
-#### rs.firenetwork.lol
+#### https://docs.screamingsandals.org/BedWars/latest/arena/#manual-creation) -Bedwars
