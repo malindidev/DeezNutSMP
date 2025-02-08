@@ -137,3 +137,16 @@
 [14:18:43] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] malindiboys -> lobby has disconnected
 [14:20:11] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] malindiboys (/[0:0:0:0:0:0:0:1%0]:57176) has disconnected
 [14:20:11] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] malindiboys -> survival has disconnected
+[14:24:24] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:49192]: Connected via websocket
+[14:24:24] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:49192]: Origin header is https://eaglercraft.net
+[14:24:24] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [connected player] malindiboys (/[0:0:0:0:0:0:0:1%0]:49192) has connected
+[14:24:24] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] malindiboys -> lobby has connected
+[14:24:28] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] malindiboys (/[0:0:0:0:0:0:0:1%0]:49192) has disconnected
+[14:24:28] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] malindiboys -> lobby has disconnected
+[14:24:31] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:49206]: Connected via websocket
+[14:24:31] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:49206]: Origin header is https://eaglercraft.net
+[14:24:31] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [connected player] malindiboys (/[0:0:0:0:0:0:0:1%0]:49206) has connected
+[14:24:31] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] malindiboys -> lobby has connected
+[14:24:36] [nLogin - Task Executor #2/INFO] [nlogin]: The user malindiboys has successfully logged in.
+[14:24:36] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] malindiboys -> survival has connected
+[14:24:37] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] malindiboys -> lobby has disconnected

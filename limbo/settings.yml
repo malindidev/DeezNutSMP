@@ -32,7 +32,7 @@ playerList:
 # Whether to display header and footer in player list
 # For 1.8+ clients
 headerAndFooter:
-  enable: false
+  enable: true
   header: '{"text": "&eWelcome!"}'
   footer: '{"text": "&DeezNuts"}'
 
