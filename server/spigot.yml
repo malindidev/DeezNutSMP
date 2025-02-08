@@ -45,6 +45,8 @@ stats:
   disable-saving: false
   forced-stats: {}
 commands:
+  log: true
+  tab-complete: 0
   spam-exclusions:
   - /skill
   silent-commandblock-console: false
@@ -53,8 +55,6 @@ commands:
   - summon
   - testforblock
   - tellraw
-  log: true
-  tab-complete: 0
 timings:
   enabled: true
   verbose: true
@@ -72,15 +72,6 @@ world-settings:
     merge-radius:
       exp: 3.0
       item: 2.5
-    growth:
-      cactus-modifier: 100
-      cane-modifier: 100
-      melon-modifier: 100
-      mushroom-modifier: 100
-      pumpkin-modifier: 100
-      sapling-modifier: 100
-      wheat-modifier: 100
-      netherwart-modifier: 100
     mob-spawn-range: 4
     anti-xray:
       enabled: true
@@ -103,6 +94,15 @@ world-settings:
       - 1
       - 5
     nerf-spawner-mobs: false
+    growth:
+      cactus-modifier: 100
+      cane-modifier: 100
+      melon-modifier: 100
+      mushroom-modifier: 100
+      pumpkin-modifier: 100
+      sapling-modifier: 100
+      wheat-modifier: 100
+      netherwart-modifier: 100
     entity-activation-range:
       animals: 32
       monsters: 32

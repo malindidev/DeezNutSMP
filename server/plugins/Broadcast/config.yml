@@ -1,0 +1,10 @@
+# 
+#             Broadcast Config             #
+prefix: '&a[&cBroadcast&a]&r '
+broadcast_use_sound: false
+broadcast_sound: ENTITY_CHICKEN_EGG
+autobroadcast_delay: 10
+broadcast_invalid_syntax_msg: '&4invalid syntax the correct syntax is {CORRECTSYNTAX}'
+broadcast_log_to_console: true
+broadcast_usePrefix: true
+autobroadcast_starton: true
