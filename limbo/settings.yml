@@ -26,15 +26,15 @@ dimension: THE_END
 # Whether to display the player in the player list
 # For 1.16.5 clients, the player list will be sent even if disabled, to avoid crash
 playerList:
-  enable: false
-  username: 'NanoLimbo'
+  enable: true
+  username: 'DeezNuts'
 
 # Whether to display header and footer in player list
 # For 1.8+ clients
 headerAndFooter:
   enable: false
   header: '{"text": "&eWelcome!"}'
-  footer: '{"text": "&9NanoLimbo"}'
+  footer: '{"text": "&DeezNuts"}'
 
 # Setup player's game mode
 # 0 - Survival
@@ -71,7 +71,7 @@ bossBar:
 title:
   enable: true
   # Set title text value empty, if you need only subtitle
-  title: '{"text": "&9&lWelcome!"}'
+  title: '{"text": "&9&lWelcome Deezys!"}'
   # Set subtitle text value empty, if you need only title
   subtitle: '{"text": "&6Where The Deez meets the Nuts"}'
   # Fade in time in ticks (1 sec = 20 ticks)
