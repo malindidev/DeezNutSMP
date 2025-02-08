@@ -79,13 +79,17 @@ lang:
         failed-set: '&cFailed to set buy description to ''[description]'' on rank:
           [rank]'
       config:
-        arguments: <removeworldtag / (enable/disable chat_formatting/tablist_formatting/op/casesensitive_permissions) / set (playtime_update_interval <seconds> / autosave_files_interval <seconds> / language <string>)>
+        arguments: <removeworldtag / (enable/disable chat_formatting/tablist_formatting/op/casesensitive_permissions)
+          / set (playtime_update_interval <seconds> / autosave_files_interval <seconds>
+          / language <string>)>
         description: Edit fields in the configuration file
         removed-world-tag: '&aThe world tag has been removed!'
         state-changed: '&eChanged [config_target] from &c[old_state] &eto &a[new_state]'
         numbers-only: '&cOnly numbers are allowed!'
       tablist:
-        arguments: <(enable/disable tablist_sorting/reverse_tablist_sorting) / set (sorting_update_interval <seconds> / header_footer_update_interval <ticks>) / animation ...>
+        arguments: <(enable/disable tablist_sorting/reverse_tablist_sorting) / set
+          (sorting_update_interval <seconds> / header_footer_update_interval <ticks>)
+          / animation ...>
         description: Edit fields in the tablist configuration file
         state-changed: '&eChanged [config_target] from &c[old_state] &eto &a[new_state]'
         numbers-only: '&cOnly numbers are allowed!'
@@ -126,7 +130,8 @@ lang:
         description: Show stats about PowerRanks
       verbose:
         arguments: <start [filter]/startlive [filter]/stop/save/clear>
-        description: Enable verbose logging, may result in lower performance! Only use for bug reporting. Use the filter to filter on a specific permission
+        description: Enable verbose logging, may result in lower performance! Only
+          use for bug reporting. Use the filter to filter on a specific permission
         started: '&aVerbose logging started! &cWarning: enabling verbose may decrease
           server performance, only use verbose for bug reporting!'
         stopped: '&aVerbose logging stopped! To save the log use the command: [command]
@@ -278,7 +283,8 @@ lang:
         success-clear: '&aCleared the suffix on rank: [rank]'
       setweight:
         arguments: <rank_name> <number>
-        description: Change the weight of the rank for permission handeling. Higher weight equals more priority.
+        description: Change the weight of the rank for permission handeling. Higher
+          weight equals more priority.
         success: '&aThe weight of rank [rank] has been changed to: [weight]'
         numbers-only: '&cOnly numbers are allowed!'
       clearusertag:

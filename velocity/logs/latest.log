@@ -182,3 +182,27 @@
 [14:56:21] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] malindiboys (/[0:0:0:0:0:0:0:1%0]:37444) has disconnected
 [14:56:21] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] malindiboys -> survival has disconnected
 [14:56:21] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] malindiboys -> lobby has disconnected
+[15:06:32] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:43118]: Connected via websocket
+[15:06:32] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:43118]: Origin header is https://eaglercraft.net
+[15:06:32] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [connected player] malindiboys (/[0:0:0:0:0:0:0:1%0]:43118) has connected
+[15:06:32] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] malindiboys -> lobby has connected
+[15:06:38] [nLogin - Task Executor #2/INFO] [nlogin]: The user malindiboys has successfully logged in.
+[15:06:38] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] malindiboys -> survival has connected
+[15:06:38] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] malindiboys -> lobby has disconnected
+[15:08:58] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] malindiboys (/[0:0:0:0:0:0:0:1%0]:43118) has disconnected
+[15:08:58] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] malindiboys -> survival has disconnected
+[15:10:49] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:42522]: Connected via websocket
+[15:10:49] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:42522]: Origin header is https://eaglercraft.net
+[15:10:49] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [connected player] malindiboys (/[0:0:0:0:0:0:0:1%0]:42522) has connected
+[15:10:49] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] malindiboys -> lobby has connected
+[15:10:51] [nLogin - Task Executor #2/INFO] [nlogin]: The user malindiboys has successfully logged in.
+[15:10:52] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] malindiboys -> survival has connected
+[15:10:52] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] malindiboys -> lobby has disconnected
+[15:12:58] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] malindiboys (/[0:0:0:0:0:0:0:1%0]:42522) has disconnected
+[15:12:58] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] malindiboys -> survival has disconnected
+[15:14:06] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:55586]: Connected via websocket
+[15:14:06] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:55586]: Origin header is https://eaglercraft.net
+[15:14:06] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [connected player] malindiboys (/[0:0:0:0:0:0:0:1%0]:55586) has connected
+[15:14:06] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] malindiboys -> lobby has connected
+[15:14:08] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] malindiboys (/[0:0:0:0:0:0:0:1%0]:55586) has disconnected
+[15:14:08] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] malindiboys -> lobby has disconnected

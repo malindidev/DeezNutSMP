@@ -1,4 +1,4 @@
-server_name: '                   &4&lDeezNutSMP'
+server_name: '&4&lDeezNutSMP'
 server_uuid: 286276dd-09a1-487e-b4c6-fc34dd42a3c0
 websocket_connection_timeout: 15000
 websocket_handshake_timeout: 5000
